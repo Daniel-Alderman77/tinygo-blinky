@@ -1,0 +1,1 @@
+tinygo flash -target=arduino -port=/dev/cu.usbmodem141101 blinky.go
